@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Database
+data/
+
+# Document storage
+storage/
+
+# Build outputs
+server/dist/
+client/dist/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+*.swp
+*.swo
